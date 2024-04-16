@@ -11,7 +11,7 @@ const Home = () => {
                 </div>
             </div>
             <div className="containerRight h-96 w-2/4 mt-20">
-                <img src="../images/pizza.png" className="w-full h-full object-contain"></img>
+                <img src="../img/abc.png" alt="pizza" className="w-full h-full object-contain"></img>
             </div>
         </div>
         <br/>
